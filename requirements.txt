@@ -1,0 +1,4 @@
+deap
+graphviz
+matplotlib
+numpy
